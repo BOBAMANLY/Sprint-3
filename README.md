@@ -13,13 +13,11 @@ Kotlin was the language used. No external libraries needed to be imported
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3Schools (Classes)](https://www.w3schools.com/kotlin/kotlin_classes.php)
 * [W3Schools (When statements)](https://www.w3schools.com/kotlin/kotlin_when.php)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Implement the function to solve for the interest rate
 * Implement the function to solve for the number of payments
 * Create a GUI
